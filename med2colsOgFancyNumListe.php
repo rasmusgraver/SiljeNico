@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<?php define("_CURRENT_PAGE", 'index'); ?>
+<?php define("CURRENT_PAGE", 'index'); ?>
 <html>
     <head>
         <title>Silje og Nico Bryllup!</title>

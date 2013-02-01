@@ -3,8 +3,8 @@
 <header>
     <div class="wrapper">
         <ul id="icons">
-            <li><a href="#" class="normaltip"><img src="images/icon1.png" alt=""></a></li>
-            <li><a href="#" class="normaltip"><img src="images/icon2.png" alt=""></a></li>
+            <li><a href="<?php echo CURRENT_PAGE; ?>.php?lang=nb" class="flag_heart"><img src="images/nb_heart.jpg" alt="" /></a></li>
+            <li><a href="<?php echo CURRENT_PAGE; ?>.php?lang=en" class="flag_heart"><img src="images/uk-usa-heart.jpg" alt="" /></a></li>
         </ul>
     </div>
     <div class="wrapper">
@@ -14,12 +14,16 @@
         </div>
         <nav>
             <ul id="menu">
-                <li><a href="index.php"   <?php if (_CURRENT_PAGE == 'index') {
+                <li><a href="index.php<?php echo LINK_PARAMS; ?>"<?php
+if (CURRENT_PAGE == 'index') {
     echo 'class="active"';
-} ?>>HJEM</a></li>
-                <li><a href="hvor.php"    <?php if (_CURRENT_PAGE == 'hvor') {
+}
+?> >HJEM</a></li>
+                <li><a href="hvor.php<?php echo LINK_PARAMS; ?>"<?php
+if (CURRENT_PAGE == 'hvor') {
     echo 'class="active"';
-} ?>>KJERRINGØY</a></li>
+}
+?> >KJERRINGØY</a></li>
 
             </ul>
         </nav>
