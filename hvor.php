@@ -7,11 +7,8 @@
         <?php include("shared/head.html"); ?>
     </head>
     <body class="index">
-        <div class="body1">
-            <div class="main">
-                <?php include("shared/header.php"); ?>
-            </div>
-        </div>
+
+        <?php include("shared/header.php"); ?>
 
 
         <div class="body3">
@@ -24,7 +21,7 @@
                             <img src="images/kjerr11.jpg" alt="kjerringoy" />
                             <p><?php echo KJERR_TEXT; ?></p>
                             <p></p>
-                            
+
                         </div>
                     </div>
                 </article>

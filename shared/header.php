@@ -2,10 +2,12 @@
 <!-- header -->
 <header>
     <div class="wrapper">
+        <!-- 
         <ul id="icons">
             <li><a href="<?php echo CURRENT_PAGE; ?>.php?lang=nb" class="flag_heart"><img src="images/nb_heart.jpg" alt="" /></a></li>
             <li><a href="<?php echo CURRENT_PAGE; ?>.php?lang=en" class="flag_heart"><img src="images/uk-usa-heart.jpg" alt="" /></a></li>
         </ul>
+        -->
 
         <div class="upperlogo">
             <h1><a href="index.php" id="logo">Nico og Silje</a></h1>

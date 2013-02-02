@@ -210,10 +210,11 @@ nav {
   /* background:url(../images/menu_bg.png) 0 0 no-repeat; */
   /* width:100px; */ 
 }
-nav li a {
-  text-decoration: none;
+nav li {
+  list-style: none;
 }
 nav li a {
+  text-decoration: none;
   font-size: 20px;
   line-height: 40px;
   color: blue;

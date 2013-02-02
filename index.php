@@ -8,10 +8,7 @@
     </head>
     <body class="index">
 
-
-                <?php include("shared/header.php"); ?>
-
-
+        <?php include("shared/header.php"); ?>
 
 
         <div class="body3">
