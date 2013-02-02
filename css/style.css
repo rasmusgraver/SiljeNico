@@ -75,6 +75,7 @@ body, html {
 }
 .body3 {
   /* background:#fff; */
+  float: left;
   padding-bottom: 40px;
 }
 .whiteback {
@@ -83,7 +84,7 @@ body, html {
 }
 /* main layout */
 a {
-  color:#39baf8;
+  color:#555545;
   text-decoration:underline;
   outline:none
 }
@@ -95,10 +96,11 @@ a.list {
   text-decoration:none
 }
 a.list:hover {
-  color:#39baf8
+  color:#555545
 }
-.floatLeft {
+.upperlogo {
   float:left;
+  margin-left: 200px;
 }
 h1 {
   padding: 33px 0 8px;
@@ -111,10 +113,10 @@ h2 {
   letter-spacing:-1px
 }
 h2 span {
-  color:#39baf8;
+  color:#555545;
 }
 h3 {
-  color:#555555;
+  color:#555545;
   font-size: 22px;
   line-height:1.2em;
   padding-bottom: 8px;
@@ -125,7 +127,7 @@ p {
 }
 /* header */
 header {
-  height:205px;
+  height:140px;
 }
 header p {
   font-size: 16px;
@@ -133,6 +135,19 @@ header p {
 }
 header .flag_heart img {
   height: 40px;
+}
+.text_wrapper {
+  float: left;
+  width: 60%;
+}
+.image_wrapper {
+  float: left;
+  width: 36%;
+  padding-left: 30px;
+}
+.image_wrapper img {
+  width: 260px;
+  margin-bottom: 30px;
 }
 #icons {
   float:right;
@@ -186,19 +201,23 @@ ol {
   font-size: 46px;
   text-decoration: none;
 }
-#menu {
-  float:right;
-  background:url(../images/menu_bg.png) 0 0 no-repeat;
-  width:660px;
-  height:93px;
-  margin-top:14px
+nav {
+  float: left;
+  left: 10px;
+  top: 250px;
+  padding-left: 20px;
+  padding-right: 20px;
+  /* background:url(../images/menu_bg.png) 0 0 no-repeat; */
+  /* width:100px; */ 
 }
-#menu li {
-  padding-left:2px;
-  background:url(../images/menu_line.png) 0 16px no-repeat;
-  float:left;
-  padding-top:16px;
-  padding-bottom:5px
+nav li a {
+  text-decoration: none;
+}
+nav li a {
+  font-size: 20px;
+  line-height: 40px;
+  color: blue;
+  /* background:url(../images/menu_line.png) 0 16px no-repeat; */
 }
 #menu .first {
   background:none;
@@ -214,7 +233,7 @@ ol {
   overflow:hidden
 }
 #menu li a:hover, #menu li a.active  {
-  color:#39baf8
+  color:#555545
 }
 /* The Nivo Slider styles */
 .slider_box {
@@ -297,7 +316,7 @@ ol {
   text-align:center;
   font-size:30px;
   line-height:1.2em;
-  color:#39baf8;
+  color:#555545;
   text-decoration:none
 }
 .nivo-controlNav a.active, .nivo-controlNav a:hover {
@@ -356,7 +375,7 @@ ol {
   float:left;
   width:59px;
   line-height:1.2em;
-  color:#39baf8;
+  color:#555545;
   margin-top:-6px
 }
 .link1 {
@@ -395,7 +414,7 @@ ol {
   width:95px;
   text-align:center;
   font-size:25px;
-  color:#39baf8;
+  color:#555545;
   line-height:45px;
   border-radius:15px;
   -moz-border-radius:15px;

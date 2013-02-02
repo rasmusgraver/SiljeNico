@@ -74,7 +74,7 @@ body, html {
 }
 /* main layout */
 a {
-	color:#39baf8;
+	color:#555545;
 	text-decoration:underline;
 	outline:none
 }
@@ -86,7 +86,7 @@ a.list {
 	text-decoration:none
 }
 a.list:hover {
-	color:#39baf8
+	color:#555545
 }
 h1 {
 	float:left;
@@ -100,7 +100,7 @@ h2 {
 	letter-spacing:-1px
 }
 h2 span {
-	color:#39baf8
+	color:#555545
 }
 p {
 	padding-bottom:20px
@@ -170,7 +170,7 @@ header {
 	overflow:hidden
 }
 #menu li a:hover, #menu #menu_active a {
-	color:#39baf8
+	color:#555545
 }
 /* The Nivo Slider styles */
 .slider_box {
@@ -253,7 +253,7 @@ header {
 	text-align:center;
 	font-size:30px;
 	line-height:1.2em;
-	color:#39baf8;
+	color:#555545;
 	text-decoration:none
 }
 .nivo-controlNav a.active, .nivo-controlNav a:hover {
@@ -309,7 +309,7 @@ header {
 	float:left;
 	width:59px;
 	line-height:1.2em;
-	color:#39baf8;
+	color:#555545;
 	margin-top:-6px
 }
 .link1 {
@@ -348,7 +348,7 @@ header {
 	width:95px;
 	text-align:center;
 	font-size:25px;
-	color:#39baf8;
+	color:#555545;
 	line-height:45px;
 	border-radius:15px;
 	-moz-border-radius:15px;
