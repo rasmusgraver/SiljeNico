@@ -13,6 +13,8 @@
             <h1><a href="index.php" id="logo">Nico og Silje</a></h1>
             <p>Kjerringøy 22. juni 2013</p>
         </div>
+        
+        <h2 style="margin-top: 20px; float: right; padding-right: 100px;">Disse sidene er under utvikling...</h2>
     </div>
 
 </header>
@@ -26,11 +28,18 @@ if (CURRENT_PAGE == 'index') {
     echo 'class="active"';
 }
 ?> >HJEM</a></li>
+
         <li><a href="hvor.php<?php echo LINK_PARAMS; ?>"<?php
                if (CURRENT_PAGE == 'hvor') {
                    echo 'class="active"';
                }
 ?> >KJERRINGØY</a></li>
+
+        <li><a href="overn.php<?php echo LINK_PARAMS; ?>"<?php
+               if (CURRENT_PAGE == 'overn') {
+                   echo 'class="active"';
+               }
+?> >OVERNATTING</a></li>
 
     </ul>
 </nav>
