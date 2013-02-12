@@ -6,15 +6,10 @@
         <?php include("shared/head.html"); ?>
     </head>
     <body class="index">
-        <div class="body1">
-            <div class="main">
-                <?php include("shared/header.php"); ?>
-            </div>
-        </div>
-
-
-        <div class="body3">
-            <div class="main whiteback">
+        <?php include("shared/header.php"); ?>
+        <?php include("shared/navigation.php"); ?>
+        <div class="main">
+            <div class="whiteback">
                 <!-- content -->
                 <article id="content">
                     <div class="wrapper">
@@ -23,7 +18,7 @@
                             <figure class="img1"><img src="images/page1_img1.jpg" alt=""></figure>
                             <p>Noe kos her</p>
                             <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl </p>
-                            
+
                         </div>
                     </div>
                     <div class="wrapper">

@@ -9,10 +9,10 @@
     <body class="index">
 
         <?php include("shared/header.php"); ?>
+        <?php include("shared/navigation.php"); ?>
+        <div class="main">
+            <div class="whiteback">
 
-
-        <div class="body3">
-            <div class="main whiteback">
                 <!-- content -->
                 <article id="content">
                     <div class="wrapper">
