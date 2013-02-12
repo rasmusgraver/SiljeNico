@@ -3,6 +3,11 @@
 define("LANG", "nb");
 define("LINK_PARAMS", "?lang=nb");
 
+define("HOME", "HJEM");
+define("OVERN", "OVERNATTING");
+define("FORL", "FORLOVERE");
+
+
 define("TITLE", 'Silje og Nico sitt Bryllup!'); 
 
 

@@ -1,4 +1,3 @@
-
 <div class="wrapper">
     <div class="pad">
         <h2>Velkommen til <span>vårt bryllup</span></h2>

@@ -5,7 +5,7 @@
 if (CURRENT_PAGE == 'index') {
     echo 'class="active"';
 }
-?> >HJEM</a></li>
+?> ><?php echo HOME; ?></a></li>
 
         <li><a href="hvor.php<?php echo LINK_PARAMS; ?>"<?php
                if (CURRENT_PAGE == 'hvor') {
@@ -17,7 +17,13 @@ if (CURRENT_PAGE == 'index') {
                if (CURRENT_PAGE == 'overn') {
                    echo 'class="active"';
                }
-?> >OVERNATTING</a></li>
+?> ><?php echo OVERN; ?></a></li>
+
+        <li><a href="forl.php<?php echo LINK_PARAMS; ?>"<?php
+               if (CURRENT_PAGE == 'forl') {
+                   echo 'class="active"';
+               }
+?> ><?php echo FORL; ?></a></li>
 
     </ul>
 </nav>
