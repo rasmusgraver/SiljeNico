@@ -137,7 +137,7 @@ header {
 }
 header p {
   font-size: 16px;
-  margin-top: 15px;
+  margin-top: 5px;
 }
 header .flag_heart img {
   height: 40px;
@@ -201,8 +201,7 @@ ol {
 #logo {
   /* background:url(../images/logo.png) 0 0 no-repeat; */
   width:217px;
-  height:63px;
-  text-indent:-9999px;
+  line-height: 42px;
   font-family: 'Kavoon', cursive;
   font-size: 46px;
   text-decoration: none;

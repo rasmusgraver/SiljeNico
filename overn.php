@@ -15,14 +15,9 @@
 
                 <!-- content -->
                 <article id="content">
-                    <div class="wrapper">
-                        <div class="pad">
-                            <h2><?php echo OVERN_HEAD; ?></h2>
-                            <p><?php echo OVERN_TEXT; ?></p>
-                            <p></p>
 
-                        </div>
-                    </div>
+                    <?php include("overn_" . LANG . ".php"); ?>
+
                 </article>
                 <!-- content / -->
             </div>
