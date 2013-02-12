@@ -124,7 +124,8 @@ h3 {
   color:#555545;
   font-size: 22px;
   line-height:1.2em;
-  padding-bottom: 8px;
+  padding-top: 8px;
+  padding-bottom: 4px;
 }
 p {
   padding-bottom:10px;

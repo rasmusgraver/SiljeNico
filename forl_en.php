@@ -1,6 +1,6 @@
 <div class="wrapper">
     <div class="pad">
-        <h2>Bride of honour and best man</h2>
+        <h2>Maid of Honor and Best Man</h2>
 
         <h3>Therese Heggedal</h3>
 
