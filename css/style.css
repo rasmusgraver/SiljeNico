@@ -15,7 +15,6 @@ mark, rp, rt, ruby, summary, time {
 .wrapper {
   width:100%;
   overflow:hidden;
-  padding-bottom: 40px;
 }
 header .wrapper {
   padding-bottom: 4px;
@@ -115,7 +114,7 @@ h2 {
   font-size:34px;
   line-height:1.2em;
   color:#464646;
-  padding:0 0 16px 0;
+  padding:14px 0 8px 0;
   letter-spacing:-1px
 }
 h2 span {
@@ -149,7 +148,8 @@ header .flag_heart img {
 .image_wrapper {
   float: left;
   width: 270px;
-  padding-left: 25px;
+  padding-left: 22px;
+  padding-top: 24px;
 }
 .image_wrapper img {
   width: 260px;
@@ -330,7 +330,7 @@ nav li a.active, nav li a:hover {
 
 /* content */
 #content {
-  padding-top:42px;
+  padding-top:12px;
   padding-bottom:40px;
   width:100%;
   overflow:hidden
