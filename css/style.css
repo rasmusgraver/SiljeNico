@@ -167,10 +167,16 @@ header ul {
   list-style: none;
 }
 ul {
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+.main ul li {
   list-style: circle;
+  margin-left: 20px;
 }
 ul li.head {
   list-style: none;
+  margin-left: 0;
   font-size: 16px;
   font-weight: bold;
 }
