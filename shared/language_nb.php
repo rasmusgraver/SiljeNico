@@ -9,6 +9,7 @@ define("FORL", "FORLOVERE");
 
 
 define("TITLE", 'Silje og Nico sitt Bryllup!'); 
+define("UNDER_DEV", "Disse sidene er under utvikling..."); 
 
 
 define("TRANSPORT_HEAD", "Transport");

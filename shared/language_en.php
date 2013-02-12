@@ -9,6 +9,7 @@ define("FORL", "BEST MAN");
 
 
 define("TITLE", "Silje and Nico's Wedding"); 
+define("UNDER_DEV", "These pages are under development..."); 
 
 
 

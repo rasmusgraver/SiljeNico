@@ -13,7 +13,7 @@
             <p>Kjerringøy 22. juni 2013</p>
         </div>
 
-        <h2 style="position: absolute;right: 63px;top: 23px;font-size: 24px;">Disse sidene er under utvikling...</h2>
+        <h2 style="position: absolute;right: 63px;top: 23px;font-size: 24px;"><?php echo UNDER_DEV; ?></h2>
     </div>
 
 </header>
