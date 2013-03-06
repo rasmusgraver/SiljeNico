@@ -12,12 +12,17 @@
         <?php include("shared/navigation.php"); ?>
         <div class="main">
             <div class="whiteback">
-                <!-- content -->
-                <article id="content">
+
+                <article id="content" class="<?php echo CURRENT_PAGE; ?>">
                     <div class="text_wrapper">
-                        
-                        <?php include("index_" . LANG . ".php"); ?>
-                        
+
+                        <div class="wrapper">
+                            <div class="pad">
+                                <?php include("index_" . LANG . ".php"); ?>
+                            </div>
+                        </div>
+
+
                     </div>
                     <div class="image_wrapper">
                         <img src="images/nicoSiljeSjo.jpg" alt="" />
@@ -25,7 +30,7 @@
                         <img src="images/nicoSiljeSnowTopp.jpg" alt="" />
                     </div>
                 </article>
-                <!-- content / -->
+
             </div>
         </div>
 

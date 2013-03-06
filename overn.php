@@ -13,13 +13,16 @@
         <div class="main">
             <div class="whiteback">
 
-                <!-- content -->
-                <article id="content">
+                <article id="content" class="<?php echo CURRENT_PAGE; ?>">
+                    <div class="wrapper">
+                        <div class="pad">
 
-                    <?php include("overn_" . LANG . ".php"); ?>
-
+                            <?php include("overn_" . LANG . ".php"); ?>
+                            
+                        </div>
+                    </div>
                 </article>
-                <!-- content / -->
+
             </div>
         </div>
 

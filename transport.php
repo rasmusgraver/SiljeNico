@@ -13,11 +13,14 @@
         <div class="main">
             <div class="whiteback">
 
-                <article id="content">
+                <article id="content" class="<?php echo CURRENT_PAGE; ?>">
 
                     <div class="text_wrapper">
-
-                        <?php include("transport_" . LANG . ".php"); ?>
+                        <div class="wrapper">
+                            <div class="pad">
+                                <?php include("transport_" . LANG . ".php"); ?>
+                            </div>
+                        </div>
 
                     </div>
                     <div class="image_wrapper">

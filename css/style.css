@@ -113,7 +113,8 @@ h1 {
 h2 {
   font-size:34px;
   line-height:1.2em;
-  color:#464646;
+  /* color:#464646; */
+  color: rgb(43, 127, 160);
   padding:14px 0 8px 0;
   letter-spacing:-1px
 }
@@ -187,6 +188,9 @@ ul li.head {
 ul li, ol li {
   font-size: 14px;
 }
+.transport ul li, .transport ol li {
+  padding-bottom: 10px;
+}
 ol {
   list-style: decimal;
 }
@@ -215,6 +219,7 @@ ol {
   font-family: 'Kavoon', cursive;
   font-size: 46px;
   text-decoration: none;
+  color: rgb(43, 127, 160);
 }
 nav {
   float: left;

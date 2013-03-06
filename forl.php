@@ -13,9 +13,14 @@
         <div class="main">
             <div class="whiteback">
 
-                <article id="content">
+                <article id="content" class="<?php echo CURRENT_PAGE; ?>">
+                    <div class="wrapper">
+                        <div class="pad">
 
-                    <?php include("forl_" . LANG . ".php"); ?>
+                            <?php include("forl_" . LANG . ".php"); ?>
+
+                        </div>
+                    </div>
 
                 </article>
 

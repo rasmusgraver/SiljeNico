@@ -13,8 +13,7 @@
         <div class="main">
             <div class="whiteback">
 
-                <!-- content -->
-                <article id="content">
+                <article id="content" class="<?php echo CURRENT_PAGE; ?>">
                     <div class="wrapper">
                         <div class="pad">
                             <h2><?php echo KJERR_HEAD; ?></h2>
@@ -25,7 +24,7 @@
                         </div>
                     </div>
                 </article>
-                <!-- content / -->
+
             </div>
         </div>
 

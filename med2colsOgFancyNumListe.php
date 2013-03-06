@@ -10,8 +10,8 @@
         <?php include("shared/navigation.php"); ?>
         <div class="main">
             <div class="whiteback">
-                <!-- content -->
-                <article id="content">
+
+                <article id="content" class="<?php echo CURRENT_PAGE; ?>">
                     <div class="wrapper">
                         <div class="pad">
                             <h2>Velkommen!</h2>
@@ -54,7 +54,7 @@
                         </div>
                     </div>
                 </article>
-                <!-- content / -->
+
             </div>
         </div>
 
