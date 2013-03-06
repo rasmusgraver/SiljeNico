@@ -19,6 +19,7 @@
                         <div class="wrapper">
                             <div class="pad">
                                 <?php include("transport_" . LANG . ".php"); ?>
+
                             </div>
                         </div>
 
@@ -26,13 +27,17 @@
                     <div class="image_wrapper">
                         <img src="images/nicoSiljNat.jpg" alt="" />
                         <img src="images/nicoSiljPar.jpg" alt="" />
-                        <img src="images/nicoSiljeSjo.jpg" alt="" />
                     </div>
 
                 </article>
 
             </div>
         </div>
+
+        <iframe src="http://doodle.com/t2pqfrfugu5pts7g"
+                style="width: 1000px; height: 1100px;"
+                ></iframe>
+
 
     </body>
 </html>
