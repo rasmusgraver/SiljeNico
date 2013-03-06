@@ -5,7 +5,7 @@ define("LINK_PARAMS", "?lang=en");
 
 define("HOME", "HOME");
 define("OVERN", "ACCOMMODATION");
-define("FORL", "BEST MAN");
+define("FORL", "Guests of Honor");
 define("TRANSPORT", "TRANSPORT");
 
 
