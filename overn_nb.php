@@ -23,3 +23,47 @@
     For mer informasjon, se:
     <a href="http://www.kjerringoybrygge.no/" > www.kjerringoybrygge.no </a>
 </p>
+
+
+<h2>Priser for overnatting</h2>
+
+<h3>Kjerringøy Bryggehotell</h3>
+
+<p class="bold">Hotellrom:</p>
+Dobbeltrom 1250,- inkl. frokost
+<br />4 stk. pr rom inkl. frokost 1575,-
+<br />4 stk. pr rom inkl. frokost 1800,-
+
+<p class="bold">Sjøhus:</p>
+per natt ink. sengetøy
+<br />1900,-  for 2 stk.
+<br />2100,- for 3 stk
+<br />2300,- for 4 stk
+<br />2500,- for 5 stk
+<br />2700,- for 6 stk (max)
+
+<p class="bold">Sjøhus Weekend</p>
+3200,- for 2 stk.
+<br />3400,- for 3 stk
+<br />3600,- for 4 stk
+<br />3800,- for 5 stk
+<br />4000,- for 6 stk (Max)
+
+<br />Ikke frokost inkl. på sjøhus.
+<br />innhold i sjøhus: 3 soverom - 6 sengeplasser, kjøkken, 2 bad.
+
+<br />Frokost kan kjøpes for de som ønsker det til 125,- pr voksen og 60,- barn under 10 år
+
+<h3>Kjerringøy Camping</h3>
+Hytte for 4 personer
+<br />800 per natt
+
+<h3>Prestegården</h3>
+250,- per pers per natt
+<br />90,- for sengetøy
+
+
+<h3>Plassering</h3>
+<p> Når det gjelder overnatting kommer vi til å plassere alle gjestene
+etter at vi vet nøyaktig hvem som kommer. Dette for at alle skal få plass. Har du ønsker så gi beskjed :)
+</p>

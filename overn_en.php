@@ -1,4 +1,4 @@
-<h2> Accommodation </h2>
+<h2>Accommodation</h2>
 
 <p>
     Now that the responses from the invitations coming in so we will come to put up a proposal to who can share apartments and "seahouses". The overview of this we publish on this page.
@@ -25,4 +25,50 @@
 <p>
     For more information, see:
     <a href="http://www.kjerringoybrygge.no/"> www.kjerringoybrygge.no </a>
+</p>
+
+
+
+<h2>Prices for Accommodation</h2>
+<p>All prices in NOK. 100 NOK is about 18 USD</p>
+
+<h3>Kjerringøy Bryggehotell</h3>
+
+<p class="bold">Hotel room:</p>
+Double 1250,- with breakfast
+<br />4 stk. pr rom with breakfast 1575,-
+<br />4 stk. pr rom with breakfast 1800,-
+
+<p class="bold">"Pier house":</p>
+per night
+<br />1900,- for 2 stk.
+<br />2100,- for 3 stk
+<br />2300,- for 4 stk
+<br />2500,- for 5 stk
+<br />2700,- for 6 stk (max)
+
+<p class="bold">"Pier house" weekend</p>
+3200,- for 2 stk.
+<br />3400,- for 3 stk
+<br />3600,- for 4 stk
+<br />3800,- for 5 stk
+<br />4000,- for 6 stk (Max)
+
+<br />Breakfast is not included in the "pier houses" 
+
+<br />Breakfast is an additional 125,- per person
+
+<h3>Kjerringøy Camping</h3>
+Cabin for 4 people
+<br />800 per night
+
+<h3>Prestegården</h3>
+250,- per person per night
+<br />90,- for linens
+
+
+<h3>Plassering</h3>
+<p> As for accommodation, we will place all the guests
+after we know exactly who is coming. This is to get room for everyone.
+If you have special requests, let us know :)
 </p>
