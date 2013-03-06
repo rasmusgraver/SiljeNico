@@ -24,7 +24,7 @@
             </li><li> Take the bus. The bus leaves from the airport at (Friday):
                 <br />   06.55,   07.45, 12.45, 13.50, 15.35, 16.10
 
-            </li><li>  If non of these options work for you, let us know, so we can fix something
+            </li><li>  If none of these options work for you, let us know, so we can fix something
 
             </li>
         </ul>
