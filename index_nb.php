@@ -32,16 +32,3 @@
     </div>
 </div>
 
-<div class="wrapper">
-    <div class="pad">
-        <h2><?php echo TRANSPORT_HEAD; ?></h2>
-        <h3><?php echo TRANSPORT_PLANE_HEAD; ?></h3>
-        <ul>
-            <li>SAS: <a href="http://www.sas.no">www.SAS.no</a></li>
-            <li>Norwegian: <a href="http://www.Norwegian.no">www.Norwegian.no</a></li>
-        </ul>
-        <br />
-        <h3><?php echo TRANSPORT_BUSS_HEAD; ?></h3>
-        <?php echo TRANSPORT_BUSS_TEXT; ?>
-    </div>
-</div>

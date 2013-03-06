@@ -9,7 +9,7 @@
         </ul>
 
         <div class="upperlogo">
-            <h1><a href="index.php" id="logo">Nico og Silje</a></h1>
+            <h1><a href="index.php" id="logo">Silje og Sven Nico</a></h1>
             <p>Kjerringøy 22. juni 2013</p>
         </div>
 

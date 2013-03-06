@@ -25,5 +25,13 @@ if (CURRENT_PAGE == 'index') {
                }
 ?> ><?php echo FORL; ?></a></li>
 
+        <li><a href="transport.php<?php echo LINK_PARAMS; ?>"<?php
+               if (CURRENT_PAGE == 'transport') {
+                   echo 'class="active"';
+               }
+?> ><?php echo TRANSPORT; ?></a></li>
+
+        
+        
     </ul>
 </nav>
