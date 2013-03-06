@@ -15,7 +15,16 @@
 
                 <article id="content">
 
-                    <?php include("transport_" . LANG . ".php"); ?>
+                    <div class="text_wrapper">
+
+                        <?php include("transport_" . LANG . ".php"); ?>
+
+                    </div>
+                    <div class="image_wrapper">
+                        <img src="images/nicoSiljNat.jpg" alt="" />
+                        <img src="images/nicoSiljPar.jpg" alt="" />
+                        <img src="images/nicoSiljeSjo.jpg" alt="" />
+                    </div>
 
                 </article>
 

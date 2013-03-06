@@ -89,7 +89,7 @@ body {
 }
 /* main layout */
 a {
-  color:#555545;
+  color: rgb(25, 108, 173);
   text-decoration:underline;
   outline:none
 }

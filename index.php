@@ -23,8 +23,6 @@
                         <img src="images/nicoSiljeSjo.jpg" alt="" />
                         <img src="images/nicoSiljeSkogen.jpg" alt="" />
                         <img src="images/nicoSiljeSnowTopp.jpg" alt="" />
-                        <img src="images/nicoSiljNat.jpg" alt="" />
-                        <img src="images/nicoSiljPar.jpg" alt="" />
                     </div>
                 </article>
                 <!-- content / -->

@@ -11,11 +11,13 @@
         </p>
 
         <h3>Hotellrom/leilighet 4 pers</h3>
+        <img src="images/overn1.jpg" alt="" />
         <p>
             Hotellrom er et understatement, siden "rommet" er laget som en leilighet. Det er en dobbeltseng og to enkelt senger som kan slås sammen til en dobbeltseng. Rommet har ikke selvbetjening, men et eget rom med en sofagruppe og Nord-Norges vakreste utsikt.
         </p>
 
         <h3>Sjøhus 6 pers</h3>
+        <img src="images/overn2.jpg" alt="" />
         <p>
             Sjøhusene er alle forskjellig innredet, av den enkle grunn at de har ulike eiere. Flotte er de alle sammen og med en helt fantastisk utsikt ut mot Lofoten. Sjøhuset inneholder tre soverom og ett eller to bad.
         </p><p>
