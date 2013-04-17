@@ -7,6 +7,8 @@
     <li>Norwegian: <a href="http://www.norwegian.no" target="_blank" >www.norwegian.no</a></li>
 </ul>
 
+<p><b>OBS! Siste ferge fredag går kl. 23:30. Det tar minst 40 min å kjøre fra flyplassen.</b></p>
+
 <h3>Fra flyplassen til Kjerringøy:</h3>
 <ul>
 

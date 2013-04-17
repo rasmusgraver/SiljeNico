@@ -7,6 +7,8 @@
     <li>Norwegian: <a href="http://www.norwegian.no" target="_blank" >www.norwegian.no</a></li>
 </ul>
 
+<p><b>NOTE! Last ferry on Friday leaves at 11:30pm. The ferry is minimum 40 min drive from the airport.</b></p>
+
 <h3>From the airport to Kjerringøy:</h3>
 <ul>
 
