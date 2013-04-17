@@ -1,4 +1,0 @@
-DirectoryIndex main.php
-
-Options +FollowSymLinks
-RewriteEngine On

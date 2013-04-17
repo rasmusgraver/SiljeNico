@@ -19,11 +19,20 @@ if (CURRENT_PAGE == 'index') {
                }
 ?> ><?php echo OVERN; ?></a></li>
 
+
+        <li><a href="gaver.php<?php echo LINK_PARAMS; ?>"<?php
+               if (CURRENT_PAGE == 'gaver') {
+                   echo 'class="active"';
+               }
+?> ><?php echo GAVER; ?></a></li>
+
+
         <li><a href="forl.php<?php echo LINK_PARAMS; ?>"<?php
                if (CURRENT_PAGE == 'forl') {
                    echo 'class="active"';
                }
 ?> ><?php echo FORL; ?></a></li>
+
 
         <li><a href="transport.php<?php echo LINK_PARAMS; ?>"<?php
                if (CURRENT_PAGE == 'transport') {
@@ -31,7 +40,7 @@ if (CURRENT_PAGE == 'index') {
                }
 ?> ><?php echo TRANSPORT; ?></a></li>
 
-        
-        
+
+
     </ul>
 </nav>

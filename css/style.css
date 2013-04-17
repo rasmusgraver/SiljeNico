@@ -19,6 +19,7 @@ p.bold {
 }
 .wrapper {
   width:100%;
+  min-width: 600px;
   overflow:hidden;
 }
 header .wrapper {

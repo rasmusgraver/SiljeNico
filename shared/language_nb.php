@@ -5,6 +5,7 @@ define("LINK_PARAMS", "?lang=nb");
 
 define("HOME", "HJEM");
 define("OVERN", "OVERNATTING");
+define("GAVER", "Gaveliste");
 define("FORL", "FORLOVERE");
 define("TRANSPORT", "TRANSPORT");
 

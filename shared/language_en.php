@@ -5,6 +5,7 @@ define("LINK_PARAMS", "?lang=en");
 
 define("HOME", "HOME");
 define("OVERN", "ACCOMMODATION");
+define("GAVER", "Wedding list");
 define("FORL", "Guests of Honor");
 define("TRANSPORT", "TRANSPORT");
 
