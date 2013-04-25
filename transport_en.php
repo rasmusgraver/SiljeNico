@@ -12,7 +12,7 @@
 <h3>From the airport to Kjerringøy:</h3>
 <ul>
 
-    <li> Rent a car and drive to Kjerringøy.
+    <li> <b> Rent a car </b> and drive to Kjerringøy.
         You can follow <a href="http://maps.google.com/maps/ms?ie=UTF&msa=0&msid=210574452578287680724.0004d7466075f2cb70cbf"
                           target="_blank" >THIS</a>  map.
         After approximately 35 min you have to take the ferry. 
@@ -21,8 +21,11 @@
         Take the road to the left just after the church  (on your right hand side).
         <a href="images/ferry2.png" target="_blank" >HERE</a> are the times for the FERRY
 
-    </li><li> Take the bus. The bus leaves from the airport at (Friday):
-        <br />   06.55,   07.45, 12.45, 13.50, 15.35, 16.10
+    </li><li>  <b> Take the bus </b>
+        <br /> The bus leaves from the airport at (Friday):
+        <br />   06:55,   07:45, 12:45, 13:50, 15:35, 16:10
+        <br /> Back to Bodø, from Kjerringøy:
+        <br />  Sunday 18:15, Monday 8:35 and 17:00
 
     </li><li>  If none of these options work for you, let us know, so we can fix something
 
