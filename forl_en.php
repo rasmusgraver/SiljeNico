@@ -26,5 +26,8 @@
 </p>
 
 <p>
-    Ønsker du å bidra med noe i løpet av middagen, så ber vi om at du tar kontakt med Geir innen 1.juni på e-post: Geir@snappit.com
+    Ønsker du å bidra med noe i løpet av middagen, så ber vi om at du tar kontakt med Geir innen 1.juni på e-post: 
+    <a href="mailto:geir@snappit.no">geir@snappit.no</a>.
+    Viktig: Tidligere stod det .com - om du har sendt mail til den addressen, så vennligst send igjen til korrekt addresse!
 </p>
+
