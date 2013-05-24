@@ -1,7 +1,7 @@
 
 <h2>Activities!</h2>
 
-<p>RIB-tur søndag 23.juni Kl. 13 .30 – 15.30</p>
+<p>RIB-tur søndag 23.juni kl 13.30 – 15.30</p>
 <p>Vil du bli med? Meld deg på til post@siljeognico.com</p>
 <p>500,- per pers </p>
 <p>&nbsp;</p>
