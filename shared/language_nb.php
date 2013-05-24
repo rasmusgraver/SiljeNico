@@ -8,6 +8,7 @@ define("OVERN", "OVERNATTING");
 define("GAVER", "Gaveliste");
 define("FORL", "FORLOVERE");
 define("TRANSPORT", "TRANSPORT");
+define("ACTIVITY", "Aktiviteter");
 
 
 define("TITLE", 'Silje og Nico sitt Bryllup!'); 

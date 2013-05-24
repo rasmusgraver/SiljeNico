@@ -41,6 +41,12 @@ if (CURRENT_PAGE == 'index') {
 ?> ><?php echo TRANSPORT; ?></a></li>
 
 
+        <li><a href="activity.php<?php echo LINK_PARAMS; ?>"<?php
+               if (CURRENT_PAGE == 'activity') {
+                   echo 'class="active"';
+               }
+?> ><?php echo ACTIVITY; ?></a></li>
+
 
     </ul>
 </nav>

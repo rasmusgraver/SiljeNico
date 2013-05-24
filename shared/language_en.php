@@ -8,6 +8,7 @@ define("OVERN", "ACCOMMODATION");
 define("GAVER", "Wedding list");
 define("FORL", "Guests of Honor");
 define("TRANSPORT", "TRANSPORT");
+define("ACTIVITY", "ACTIVITY");
 
 
 define("TITLE", "Silje and Nico's Wedding"); 
