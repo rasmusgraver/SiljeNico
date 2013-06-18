@@ -16,6 +16,9 @@
                 <article id="content" class="<?php echo CURRENT_PAGE; ?>">
                     <div class="wrapper">
                         <div class="pad">
+                            <h2>Rom-Fordeling</h2>
+                            <p>Da er oversikten over rom og hytter klar!</p>
+                            <a href="overn_oversikt.php">Oversikt over fordeling av hytter og rom</a>
 
                             <?php include("overn_" . LANG . ".php"); ?>
                             
