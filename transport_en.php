@@ -19,7 +19,7 @@
         You purchase your ferry tickets on board. 
         After the ferry you drive for approximately 20 min. 
         Take the road to the left just after the church  (on your right hand side).
-        <a href="images/ferry2.png" target="_blank" >HERE</a> are the times for the FERRY
+        <a href="images/ferge3.png" >HERE</a> are the times for the FERRY
 
     </li><li>  <b> Take the bus </b>
         <br /> The bus leaves from the airport at (Friday):

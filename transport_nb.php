@@ -14,10 +14,10 @@
 
     <li> 
        <b>  Lei en bil </b> og kjør til Kjerringøy. Følg <a href="http://maps.google.com/maps/ms?ie=UTF&msa=0&msid=210574452578287680724.0004d7466075f2cb70cbf"
-                                                   target="_blank" >DETTE</a>  kartet. Etter ca 35 min må du ta fergen. 
+           target="_blank" >DETTE</a>  kartet. Etter ca 35 min må du ta fergen. 
         Du kjøper fergebilletter om bord. Etter fergen kjører du ca 20 min. 
         Ta veien til venstre rett etter kirken (på høyre side).
-        <a href="images/ferry2.png" target="_blank" >HER</a> er fergetidene
+        <a href="images/ferge3.png" >HER</a> er fergetidene
 
     </li><li> <b> Ta bussen </b>
         <br /> Bussen går fra flyplassen (fredag):
